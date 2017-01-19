@@ -1,4 +1,4 @@
-# docker-and-digital-ocean-experiments
+# Docker & Digital Ocean Exaperiments
 Playing with CodeAnywhere, DigitalOcean, and Docker in tandem. Pushing to this repo over SSH from my container at the SF data center.
 
 ## Mission Log: Day 1
